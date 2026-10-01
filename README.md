@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniero en Computación | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=FullStack+Developer+;Practicante+en+desarrollo+de+software;Trabajando+con+Angular+%2B+Node.js+%2B+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=FullStack+Developer+;Trabajando+con+Angular+%2B+Node.js+%2B+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Computación** en la **Universidad de Guadalajara**, a un semestre de titularme.
-- 💼 Actualmente hago mis **prácticas profesionales** desarrollando un sistema real de gestión (inventario de muebles, vehículos e inmuebles) con **Angular + Node/Express + PostgreSQL**.
+- 🎓 **Ingeniero en Computación** por la **Universidad de Guadalajara**
+- 💼 Actualmente trabajo como desarollador web con tecnologías como **Angular, Node/Express, PostgreSQL**.
 
 ---
 
@@ -51,18 +51,20 @@
 |---|---|---|
 | **Sistema SAP** *(práctica profesional)* | Angular · Node/Express · PostgreSQL | Sistema de gestión de inventario para una dependencia pública: módulos de muebles, vehículos e inmuebles con CRUD completo, signals de Angular y búsqueda en vivo. |
 | **Generador de reportes PDF** | Node.js · TypeScript · pdfmake | Backend que genera reportes en PDF a partir de datos del sistema. |
+-->
 
-> Sin repos públicos actualmente — están en camino 🚧. -->
+> Sin repos públicos actualmente — están en camino 🚧. 
 
 ---
 
-### 📊 GitHub Stats
+
 
 <!-- Actualizar subir web a vercel (Stats)
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar202204&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   -->
   
+  ### 📊 GitHub Stats
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar202204&theme=radical&hide_border=true" />
 </p>
 
